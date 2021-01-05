@@ -17,4 +17,6 @@ This folder contains a simple Terraform module that deploys resources in AWS fo
 5. Run terraform init.
 6. Run terraform fmt.
 7. Run terraform apply.
-8. When you're done, run terraform destroy.
+8. Once the instance is running, go to your AWS console and look up the connection information for the instances IP address. 
+9. Open a browser and navigate to the site. 
+10. When you're done, run terraform destroy.
