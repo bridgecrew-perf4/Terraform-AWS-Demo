@@ -11,8 +11,8 @@ This folder contains a simple Terraform module that deploys resources in AWS fo
     ```
     mkdir terraform-aws-instance-nginx
     cd terraform-aws-instance-nginx
-    git clone https://github.com/divergent-rose/AWS_Terraform_Demo.git
-    cd AWS_Terraform_Demo
+    git clone https://github.com/divergent-rose/Terraform-AWS-Demo.git
+    cd Terraform-AWS-Demo
     ```
 5. Run terraform init.
 6. Run terraform fmt.
